@@ -1,0 +1,9 @@
+# Climate envelope
+
+Critical change: do **not** pressurize the upper tower. Atmospheric pressure becomes a programmable training variable. Each band sealed against weather but at its natural pressure altitude. Hypoxic chambers for users who want to train above what the natural altitude of their floor provides.
+
+This is the single biggest departure from the residential X-Seed and the largest cost saving. Pressurizing a 4 km column to sea level requires either a continuously pumped envelope (with the parasitic load and acoustic problems that implies) or partitioned airlocks between every band — the latter essentially turning the tower into a stack of independent submarines. Both options exist to serve a use case (permanent habitation) the park does not have. Athletes want the altitude. The envelope only has to keep wind, rain, snow, and ice off the program spaces, and keep the temperature inside survivable.
+
+Weather sealing at 4 km is its own problem. The summit sits within the bottom edge of the jet stream's typical winter excursion latitude, with sustained winds that routinely exceed anything a conventional curtain wall is designed for. The aerodynamic shroud is therefore not cosmetic — it's the primary wind load mitigation, and it has to remain effective with ice accretion. Heated leading edges, hydrophobic coatings, and accessible inspection catwalks behind the cladding are all part of the operations budget, not aesthetic options.
+
+A secondary benefit of the unpressurized envelope: emergency egress. A pressurized tower has to manage decompression scenarios on top of fire, earthquake, and structural events. An unpressurized one only has to manage the normal three. Stairwells vent naturally, smoke behaves the way fire codes already understand, and the medical contingency shifts from explosive decompression to altitude sickness — a slower, more diagnosable, and more treatable failure mode.

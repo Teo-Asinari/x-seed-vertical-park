@@ -37,48 +37,16 @@ A 4 km vertical destination for athletic training, recreation, and acclimatizati
 | ~5 GW power demand | Drops to a few hundred MW |
 | Trapped-above-the-fire anxiety | Same as any large stadium with proper egress |
 
-## Programming by altitude band
+## Contents
 
-| Band | Altitude | Use |
-| --- | --- | --- |
-| Sea base | 0 m | Wave pool, open-water swim, beach courts, sailing, kayaking, wakeboard cable park |
-| Lower frustum | 0–500 m | Conventional indoor sports at unprecedented scale: courts, ice, lap pools, weight rooms |
-| Mid-tower | 500–2000 m | World's tallest multi-pitch climbing routes; spiral cone-wrapping velodrome; vertical-marathon stair courses |
-| Upper tower | 2000–3500 m | Altitude-training zone (Aspen → Everest base camp equivalent); endurance running, cycling, distance swim |
-| Summit | 3500–4000 m | Hypoxic chambers, observation deck, BASE jump / wingsuit launch, paragliding ramp |
+- [Programming by altitude band, anchor events](docs/programming.md)
+- [Structure and foundation](docs/structure.md)
+- [Climate envelope](docs/climate.md)
+- [Vertical transport](docs/transport.md)
+- [Power](docs/power.md)
+- [Concept art and 3D models](concept-art/README.md)
 
-## Anchor events
-
-- **Vertical marathon** — 800 floors. Currently the Empire State Building Run-Up tops out at 86.
-- **Multi-day big-wall sim** — continuous indoor climbing route exceeding any natural wall on Earth.
-- **BASE jump festival** — the world's only purpose-built launch deck at 4 km.
-- **Altitude training residencies** — olympic and pro teams currently fly to Colorado, Kenya, or Ethiopia. Here it's an elevator ride.
-
-## Subsystem changes from the residential X-Seed
-
-### Structure
-Same broad strokes — UHPC megacolumns plus CFRP tendons, or a bundled cluster of sub-towers under one aerodynamic shroud. Skyplates every ~500 m double as event-floor "ground levels" with full programming each.
-
-### Foundation
-TLP-style sea-base, moored to Tokyo Bay bedrock under tension. Tsunami-resistant by mass; doubles as the building's tuned-mass damper.
-
-### Climate envelope
-Critical change: do **not** pressurize the upper tower. Atmospheric pressure becomes a programmable training variable. Each band sealed against weather but at its natural pressure altitude. Hypoxic chambers for users who want to train above what the natural altitude of their floor provides.
-
-### Vertical transport
-Three-tier: ropeless maglev express between altitude bands, local cable elevators within bands, escalators / stairs within ~3 floors. Stairwells designed as competition-ready running courses, not just emergency egress.
-
-### Power
-~200–500 MW continuous (vs. ~5 GW residential). Achievable with rooftop PV, embedded vertical-axis wind in the upper aerodynamic shroud, tidal at the base, and pumped seawater storage. Possibly no nuclear required.
-
-## Open questions
-
-- **Site.** Tokyo Bay is iconic but seismically aggressive. Alternatives: Persian Gulf (NEOM-adjacent), Bohai Bay, US East Coast.
-- **Throughput.** How many people per day before vertical transport becomes the bottleneck? Likely caps daily attendance at 50–80k vs. theme-park norms of 100k+.
-- **Phasing.** Build the sea base first as a standalone destination, prove revenue, extend upward?
-- **Ownership / finance.** Tourism asset (Disney/NEOM-scale capital), public infrastructure (national pride project), or athletic-federation cooperative?
-- **Liability.** BASE jumping from a private structure has obvious legal exposure. Insurable?
-- **Climate impact.** What's the embodied + operational carbon over a 100-year life vs. the air travel currently required to access altitude and diverse training environments?
+Open questions are tracked as [GitHub issues](https://github.com/Teo-Asinari/x-seed-vertical-park/issues).
 
 ## References
 
